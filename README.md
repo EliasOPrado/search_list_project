@@ -1,0 +1,1 @@
+Project_LIST a frontend project for the Cragslist website using Django and BeautifulSoup.
